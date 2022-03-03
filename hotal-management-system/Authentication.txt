@@ -1,0 +1,5 @@
+zekeriya;123;1111111111;zekeriyaozden@icloud.com;0;true
+ertugrul;e123;1111111111;ertugrul@gmail.com;0;true
+zeynep;123;1111111111;zeynep@gmail.com;1;false
+ibrahim;123;1111111111;ibrahim@123;0;false
+tarık;tarık123;null;tarık@gmail.com;0;false
